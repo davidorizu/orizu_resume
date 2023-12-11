@@ -6,9 +6,9 @@ title: David's Resume
 A student at Brigham Young University.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="chidubem.orizu@yahoo.com">datascience@byui.edu</a>
 | <a href="https://www.linkedin.com/in/david-orizu-935508248/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/davidorizu/orizu_resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
